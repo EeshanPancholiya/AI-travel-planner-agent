@@ -1,0 +1,45 @@
+Metadata-Version: 2.4
+Name: agentxplore
+Version: 0.1.0
+Summary: Add your description here
+Author: Maaz Shaikh
+Author-email: shaikhmaaz136@gmail.com
+Requires-Python: >=3.11
+Description-Content-Type: text/markdown
+Requires-Dist: pandas>=2.3.0
+Dynamic: author
+Dynamic: author-email
+
+
+```uv --version
+```
+
+```import shuntil
+print(shutil.which("uv"))```
+
+
+```pip install uv```
+
+
+```uv init AgentXplore```
+
+
+```uv pip list```
+
+
+```uv python list```
+
+
+#If not already present, install python version of your choice. In this case, I have installed python 3.10.16
+```uv python install ypy-3.10.18-windows-x86_64-none```
+
+
+```uv python list```
+
+
+# Create a virtual environment "agentxplore" using a specific python version 3.10.18
+```uv venv agentxplore --python cpython-3.10.18-windows-x86_64-none```
+
+
+## Use this command from your virtual environment
+C:\Users\MaazShaikh\AgentXplore\env\Scripts\activate.bat
