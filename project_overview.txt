@@ -1,0 +1,14 @@
+AI-Based Trip Planner System
+
+This solution is completely built using Agentic AI workflow
+- This system will plan trips for any city worldwide with real-time data
+--- Real-time weather information
+--- Attraction and activities in the destination city
+--- Real-time hotel stay cost
+--- Currency conversion 
+--- Generate complete itinerary
+--- Calculate total expense for the trip
+--- Generate complete summary of the trip
+
+
+# In this project, we will use uv library (sister package to pip) to perform library management
