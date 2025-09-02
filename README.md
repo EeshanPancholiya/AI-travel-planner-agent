@@ -37,7 +37,7 @@ Before you begin, ensure you have the following installed on your system:
 
 ```bash
 git clone <your-repository-url>
-cd AgentXplore
+cd AI Agent
 ```
 
 ### Step 2: Create Virtual Environment (Recommended)
@@ -135,7 +135,7 @@ The application consists of two components that need to be running simultaneousl
 
 ```bash
 # Navigate to project directory
-cd AgentXplore
+cd AI Agent
 
 # Export environment variables and start backend
 export GROQ_API_KEY=your_actual_groq_key && \
@@ -158,7 +158,7 @@ Open a new terminal window:
 
 ```bash
 # Navigate to project directory
-cd AgentXplore
+cd AI Agent
 
 # Export environment variables and start frontend
 export GROQ_API_KEY=your_actual_groq_key && \
@@ -209,7 +209,7 @@ The AI travel agent will provide:
 ##  Project Structure
 
 ```
-AgentXplore/
+AI Agent/
 ├── agent/
 │   └── agentic_workflow.py      # Core agent logic (GraphBuilder)
 ├── config/
@@ -352,5 +352,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 **Happy Traveling! ✈️🌍**
+
 
 For support or questions, please open an issue on the repository.
